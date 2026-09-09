@@ -1,0 +1,26 @@
+const mongoose = require("mongoose"); 
+
+const adminSchema = new mongoose.Schema(
+  {
+    name: { type: String, required: true, trim: true },
+
+    //trim is a Mongoose option that removes unnecessary spaces from the beginning and end of a string.
+    email: {
+      type: String,
+      rquired: true,
+      unique: true,
+      lowercase: true,
+      trim: true,
+    },
+    password: { type: String, required: true },
+    role: { type: String, default: "admin" },
+
+    createdAt: { type: Date, default: Date.now },
+  },
+
+  {
+    timestamps: true,
+  }, //by including this timestamps: true Mongoose automatically adds createdAt & updatedAt  
+);
+
+module.exports = mongoose.model("Admin", adminSchema);
