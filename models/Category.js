@@ -1,10 +1,11 @@
 const mongoose = require("mongoose");
 
-const serviceSchema = new mongoose.Schema(
+const categorySchema = new mongoose.Schema(
   {
-    title: {
+    name: {
       type: String,
       required: true,
+      unique: true,
       trim: true,
     },
 
@@ -16,17 +17,13 @@ const serviceSchema = new mongoose.Schema(
       trim: true,
     },
 
-    //slug is mainly used to create a clean, readable, URL-friendly version of a name/title.
-
     description: {
       type: String,
-      required: true,
       trim: true,
     },
 
     image: {
       type: String,
-      default: "",
     },
 
     status: {
@@ -40,4 +37,4 @@ const serviceSchema = new mongoose.Schema(
   },
 );
 
-module.exports = mongoose.model("Service", serviceSchema);
+module.exports = mongoose.model("Category", categorySchema);

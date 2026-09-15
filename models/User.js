@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const contactMessageSchema = new mongoose.Schema(
+const userSchema = new mongoose.Schema(
   {
     name: {
       type: String,
@@ -11,26 +11,31 @@ const contactMessageSchema = new mongoose.Schema(
     email: {
       type: String,
       required: true,
+      unique: true,
       lowercase: true,
       trim: true,
     },
 
-    subject: {
+    password: {
       type: String,
       required: true,
+      minlength: 6,
+    },
+
+    phone: {
+      type: String,
       trim: true,
     },
 
-    message: {
+    role: {
       type: String,
-      required: true,
-      trim: true,
+      enum: ["user", "admin"],
+      default: "user",
     },
 
-    status: {
-      type: String,
-      enum: ["new", "read", "replied", "closed"],
-      default: "new",
+    isActive: {
+      type: Boolean,
+      default: true,
     },
   },
   {
@@ -38,4 +43,4 @@ const contactMessageSchema = new mongoose.Schema(
   },
 );
 
-module.exports = mongoose.model("ContactMessage", contactMessageSchema);
+module.exports = mongoose.model("User", userSchema);
