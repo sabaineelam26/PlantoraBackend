@@ -17,7 +17,7 @@ exports.register = async(req, res) => {
         _id: user._id,
         name: user.name,
         email: user.email,
-        token: genToken(user.user._id),
+        token: genToken(user._id),
       });
 }; 
 
