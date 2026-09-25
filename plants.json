@@ -1,0 +1,922 @@
+[
+  {
+    "name": "ZZ Plant",
+    "scientificName": "Zamioculcas zamiifolia",
+    "category": "Low-Light Plants",
+    "difficulty": "Easy",
+    "description": "The ZZ Plant is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": true,
+      "toxicToDogs": true,
+      "notes": "Keep away from pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "low-light-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Snake Plant",
+    "scientificName": "Sansevieria trifasciata",
+    "category": "Low-Light Plants",
+    "difficulty": "Easy",
+    "description": "The Snake Plant is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": true,
+      "toxicToDogs": true,
+      "notes": "Keep away from pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "low-light-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Cast Iron Plant",
+    "scientificName": "Aspidistra elatior",
+    "category": "Low-Light Plants",
+    "difficulty": "Moderate",
+    "description": "The Cast Iron Plant is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": false,
+      "toxicToDogs": false,
+      "notes": "Safe for pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "low-light-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Parlor Palm",
+    "scientificName": "Chamaedorea elegans",
+    "category": "Low-Light Plants",
+    "difficulty": "Easy",
+    "description": "The Parlor Palm is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": false,
+      "toxicToDogs": false,
+      "notes": "Safe for pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "low-light-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Chinese Evergreen",
+    "scientificName": "Aglaonema",
+    "category": "Low-Light Plants",
+    "difficulty": "Easy",
+    "description": "The Chinese Evergreen is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": true,
+      "toxicToDogs": true,
+      "notes": "Keep away from pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "low-light-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Spider Plant",
+    "scientificName": "Chlorophytum comosum",
+    "category": "Air-Purifying Plants",
+    "difficulty": "Easy",
+    "description": "The Spider Plant is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": false,
+      "toxicToDogs": false,
+      "notes": "Safe for pets."
+    },
+    "airPurifying": true,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "air-purifying-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Peace Lily",
+    "scientificName": "Spathiphyllum",
+    "category": "Air-Purifying Plants",
+    "difficulty": "Moderate",
+    "description": "The Peace Lily is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": true,
+      "toxicToDogs": true,
+      "notes": "Keep away from pets."
+    },
+    "airPurifying": true,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "air-purifying-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "English Ivy",
+    "scientificName": "Hedera helix",
+    "category": "Air-Purifying Plants",
+    "difficulty": "Challenging",
+    "description": "The English Ivy is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": true,
+      "toxicToDogs": true,
+      "notes": "Keep away from pets."
+    },
+    "airPurifying": true,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "air-purifying-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Boston Fern",
+    "scientificName": "Nephrolepis exaltata",
+    "category": "Air-Purifying Plants",
+    "difficulty": "Moderate",
+    "description": "The Boston Fern is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": false,
+      "toxicToDogs": false,
+      "notes": "Safe for pets."
+    },
+    "airPurifying": true,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "air-purifying-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Rubber Plant",
+    "scientificName": "Ficus elastica",
+    "category": "Air-Purifying Plants",
+    "difficulty": "Moderate",
+    "description": "The Rubber Plant is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": true,
+      "toxicToDogs": true,
+      "notes": "Keep away from pets."
+    },
+    "airPurifying": true,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "air-purifying-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Calathea",
+    "scientificName": "Calathea spp.",
+    "category": "Pet-Friendly Plants",
+    "difficulty": "Challenging",
+    "description": "The Calathea is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": false,
+      "toxicToDogs": false,
+      "notes": "Safe for pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "pet-friendly-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Ponytail Palm",
+    "scientificName": "Beaucarnea recurvata",
+    "category": "Pet-Friendly Plants",
+    "difficulty": "Easy",
+    "description": "The Ponytail Palm is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": false,
+      "toxicToDogs": false,
+      "notes": "Safe for pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "pet-friendly-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Peperomia",
+    "scientificName": "Peperomia spp.",
+    "category": "Pet-Friendly Plants",
+    "difficulty": "Easy",
+    "description": "The Peperomia is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": false,
+      "toxicToDogs": false,
+      "notes": "Safe for pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "pet-friendly-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Bird's Nest Fern",
+    "scientificName": "Asplenium nidus",
+    "category": "Pet-Friendly Plants",
+    "difficulty": "Moderate",
+    "description": "The Bird's Nest Fern is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": false,
+      "toxicToDogs": false,
+      "notes": "Safe for pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "pet-friendly-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "African Violet",
+    "scientificName": "Saintpaulia",
+    "category": "Pet-Friendly Plants",
+    "difficulty": "Moderate",
+    "description": "The African Violet is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": false,
+      "toxicToDogs": false,
+      "notes": "Safe for pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "pet-friendly-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Pothos",
+    "scientificName": "Epipremnum aureum",
+    "category": "Easy-Care Plants",
+    "difficulty": "Easy",
+    "description": "The Pothos is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": true,
+      "toxicToDogs": true,
+      "notes": "Keep away from pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "easy-care-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Aloe Vera",
+    "scientificName": "Aloe barbadensis miller",
+    "category": "Easy-Care Plants",
+    "difficulty": "Easy",
+    "description": "The Aloe Vera is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": true,
+      "toxicToDogs": true,
+      "notes": "Keep away from pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "easy-care-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Monstera",
+    "scientificName": "Monstera deliciosa",
+    "category": "Easy-Care Plants",
+    "difficulty": "Easy",
+    "description": "The Monstera is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": true,
+      "toxicToDogs": true,
+      "notes": "Keep away from pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "easy-care-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Jade Plant",
+    "scientificName": "Crassula ovata",
+    "category": "Easy-Care Plants",
+    "difficulty": "Easy",
+    "description": "The Jade Plant is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": true,
+      "toxicToDogs": true,
+      "notes": "Keep away from pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "easy-care-plants",
+      "indoor",
+      "plant"
+    ]
+  },
+  {
+    "name": "Philodendron",
+    "scientificName": "Philodendron spp.",
+    "category": "Easy-Care Plants",
+    "difficulty": "Easy",
+    "description": "The Philodendron is a beautiful indoor plant perfect for any home.",
+    "careGuide": {
+      "watering": {
+        "frequencyDays": 7,
+        "instructions": "Water when top inch of soil is dry."
+      },
+      "light": {
+        "type": "Indirect",
+        "idealLux": "1000-2000"
+      },
+      "temperature": {
+        "minC": 15,
+        "maxC": 30
+      },
+      "humidity": {
+        "minPercentage": 40,
+        "idealPercentage": 60
+      },
+      "fertilizer": {
+        "schedule": "Once a month during spring and summer."
+      }
+    },
+    "toxicity": {
+      "toxicToCats": true,
+      "toxicToDogs": true,
+      "notes": "Keep away from pets."
+    },
+    "airPurifying": false,
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?auto=format&fit=crop&w=500&q=60"
+    ],
+    "tags": [
+      "easy-care-plants",
+      "indoor",
+      "plant"
+    ]
+  }
+]
