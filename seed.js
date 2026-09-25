@@ -14,7 +14,10 @@ const plantSchema = new mongoose.Schema({
   description: String,
   careGuide: {
     watering: { frequencyDays: Number, instructions: String },
-    light: { type: String, idealLux: String },
+    light: { 
+      type: { type: String }, 
+      idealLux: String 
+    },
     temperature: { minC: Number, maxC: Number },
     humidity: { minPercentage: Number, idealPercentage: Number },
     fertilizer: { schedule: String }
@@ -29,7 +32,8 @@ const Plant = mongoose.model('Plant', plantSchema);
 
 const seedDatabase = async () => {
   try {
-    const mongoURI = process.env.MONGO_URI || "mongodb://localhost:27017/plantora";
+    const mongoURI =
+      process.env.MONGODB || "mongodb://localhost:27017/plantora";
     console.log(`Connecting to MongoDB at ${mongoURI}...`);
     await mongoose.connect(mongoURI);
     console.log('Connected!');
